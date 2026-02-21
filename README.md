@@ -58,9 +58,9 @@ Two Linux VMs were created with the following configuration:
 
 ### VM Placement
 <img width="1911" height="916" alt="Screenshot 2026-02-21 065944" src="https://github.com/user-attachments/assets/6ef89b35-6203-421e-ac6a-891d6ca2e938" />
-- **VM-1** deployed in subnet `VM1`
+**VM-1** deployed in subnet `VM1`
 <img width="1919" height="952" alt="Screenshot 2026-02-21 070434" src="https://github.com/user-attachments/assets/a763005a-bd35-4f10-b7e7-9d7b41aa7fc6" />
-- **VM-2** deployed in subnet `VM2`
+**VM-2** deployed in subnet `VM2`
 
 ### VM Private Key
 Download Both Private keys when the VM is created
